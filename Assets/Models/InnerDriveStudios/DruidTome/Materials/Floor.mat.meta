@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da9fa918b8961e64494616a325df21d7
+timeCreated: 1514384651
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107953
+  packageName: Druid Tome
+  packageVersion: 1.0
+  assetPath: Assets/InnerDriveStudios/DruidTome/Materials/Floor.mat
+  uploadId: 220948

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a6ab714e08213f4db49a000b0823c31
+timeCreated: 1514384668
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107953
+  packageName: Druid Tome
+  packageVersion: 1.0
+  assetPath: Assets/InnerDriveStudios/DruidTome/Materials/Pedestal.mat
+  uploadId: 220948

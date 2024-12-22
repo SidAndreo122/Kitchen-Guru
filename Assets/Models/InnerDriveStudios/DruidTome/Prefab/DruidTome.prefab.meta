@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bc099817d25fea43b3ad813c0cf68cc
+timeCreated: 1514385109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107953
+  packageName: Druid Tome
+  packageVersion: 1.0
+  assetPath: Assets/InnerDriveStudios/DruidTome/Prefab/DruidTome.prefab
+  uploadId: 220948
